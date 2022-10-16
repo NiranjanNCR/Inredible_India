@@ -532,10 +532,10 @@ ul li a{
 margin-left: 3%;
     }
 
-    .footer{
+   .footer{
         /* border :2px solid red; */
-        margin-top: 40%;
-        height: 80%;
+        margin-top: 25rem;
+        height: 180vh;
         display: flex;
 flex-direction: column;
 
