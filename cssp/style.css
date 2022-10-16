@@ -48,7 +48,7 @@ li{
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-    background-color: black;
+    background-color:transparent;
     /* border: 2px solid blue; */
 }
  ul li a{
